@@ -1,0 +1,15 @@
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\bin\Debug\netstandard2.0\AppBindinCommands.deps.json
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\bin\Debug\netstandard2.0\AppBindinCommands.dll
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\bin\Debug\netstandard2.0\AppBindinCommands.pdb
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\AppBindinCommands.csproj.AssemblyReference.cache
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\AppBindinCommands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\AppBindinCommands.AssemblyInfoInputs.cache
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\AppBindinCommands.AssemblyInfo.cs
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\AppBindinCommands.csproj.CoreCompileInputs.cache
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\AppBindinCommands.dll
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\refint\AppBindinCommands.dll
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\AppBindinCommands.pdb
+D:\Sonia\AppBindinCommands\AppBindinCommands\AppBindinCommands\obj\Debug\netstandard2.0\ref\AppBindinCommands.dll
